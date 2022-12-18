@@ -259,6 +259,21 @@
         align-items: center;
         margin:0 auto;
     }
+  
+
+
+    .gray_var3{
+        background-color: #D9D9D9;
+        display: flex;
+        justify-content:center ;
+        align-items: center;
+        margin-left: 10%;
+        margin-right: 10%;
+        height: 0.2vh;
+        width: 80vw;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
     .footer{
         height: 16%;
         width: 100%;
@@ -354,16 +369,4 @@
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
-    }
-    .gray_var3{
-        background-color: #D9D9D9;
-        display: flex;
-        justify-content:center ;
-        align-items: center;
-        margin-left: 10%;
-        height: 0.2vh;
-        width: 80vw;
-        margin:0 auto;
-        margin-top: 2%;
-        margin-bottom: 2%;
     }
